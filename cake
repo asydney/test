@@ -1,1 +1,2 @@
-I love cake
+I hate cake
+I love rice
